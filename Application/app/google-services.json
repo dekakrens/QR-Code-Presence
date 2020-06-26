@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475708757492",
+    "firebase_url": "https://qr-code-presensi.firebaseio.com",
+    "project_id": "qr-code-presensi",
+    "storage_bucket": "qr-code-presensi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475708757492:android:5f1471bece74e2c1",
+        "android_client_info": {
+          "package_name": "com.example.user.myschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475708757492-gnvncqrmf3uh1evslf8eftbcp2o4a3vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.myschool",
+            "certificate_hash": "b67e56b86cfe56d39757c05785276fde80c9d8e4"
+          }
+        },
+        {
+          "client_id": "475708757492-a6q0e1jhdi9i29unsdh7cch9pd9di6g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMbblbiUZmSmnkdwkbBnVf-xrydkwWiwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475708757492-a6q0e1jhdi9i29unsdh7cch9pd9di6g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
